@@ -1,0 +1,57 @@
+
+
+===VERSION 1.24===
+---GAME START @ 2015-5-20-9-38-43---
+
+wait registration for 30 seconds
+close registration
+game-over
+
+===VERSION 1.24===
+---GAME START @ 2015-5-20-9-39-20---
+
+wait registration for 30 seconds
+close registration
+game-over
+
+===VERSION 1.24===
+---GAME START @ 2015-5-20-9-39-42---
+
+wait registration for 30 seconds
+close registration
+game-over
+
+===VERSION 1.24===
+---GAME START @ 2015-5-20-9-41-10---
+
+wait registration for 30 seconds
+close registration
+game-over
+
+===VERSION 1.24===
+---GAME START @ 2015-5-20-11-14-21---
+
+wait registration for 30 seconds
+close registration
+game-over
+
+===VERSION 1.24===
+---GAME START @ 2015-5-20-11-14-39---
+
+wait registration for 30 seconds
+close registration
+game-over
+
+===VERSION 1.24===
+---GAME START @ 2015-5-20-11-29-40---
+
+wait registration for 30 seconds
+close registration
+game-over
+
+===VERSION 1.24===
+---GAME START @ 2015-5-20-11-29-55---
+
+wait registration for 30 seconds
+close registration
+game-over
